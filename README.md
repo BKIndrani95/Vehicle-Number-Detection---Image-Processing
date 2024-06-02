@@ -16,7 +16,7 @@ Objective:
 
 Tools used:
 ===========
-    Python, cv2, Pytessaract, Pandas, Image Processing
+Python, cv2, Pytessaract, Pandas, Image Processing
     
 Findings:
 ========
