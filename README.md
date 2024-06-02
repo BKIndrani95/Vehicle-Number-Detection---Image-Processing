@@ -1,5 +1,5 @@
 # Vehicle-Number-Detection---Image-Processing
-Vehicle Number Prediction Using Image Processing Technique:
+                                       Vehicle Number Prediction Using Image Processing Technique:
 Introduction:
 ============
     Detecting vehicle numbers using their Images. extracting alpha numeric text from images and store it in list and then converting that list into Pandas DataFrame which will help us in future to search easily, process effectively and we can add addtional columns to add information in that dataframe. using cv2 images are fetched from the folder which have collection of images, using pytessaract texts are extracted from images, after extracting texts are loaded in list and then converted that list into DataFrame.
@@ -17,6 +17,7 @@ Objective:
 Tools used:
 ===========
     Python, cv2, Pytessaract, Pandas, Image Processing
+    
 Findings:
 ========
     * we can extract data from images and that can be more useful for security process in
@@ -31,7 +32,4 @@ performance by enhancing the contrast between the text and the background.
 
 Conclusion:
 ==========
-
 The quality of input data is critical for the success of OCR-based text extraction. High-quality images and precise annotations lead to more accurate and reliable results.Future work could include the development of a more sophisticated image preprocessing pipeline that can handle a wider range of image quality issues, such as glare, shadows, and low resolution.The findings of this project have practical implications for applications in automated license plate recognition (ALPR) systems used in traffic monitoring, toll collection, and security surveillance.Improving the robustness and accuracy of such systems can lead to more efficient and reliable automated processes, reducing the need for manual intervention.
-
-
